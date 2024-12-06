@@ -5,6 +5,8 @@ import About from './About';
 import Portfolio from './Portfolio';
 import Contact from './Contact';
 import Footer from './Footer';
+import Timeline from './Timeline';
+
 
 const App: React.FC = () => {
   return (
@@ -12,6 +14,7 @@ const App: React.FC = () => {
         <Header />
         <main>
           <About />
+          <Timeline />
           <Portfolio />
           <Contact />
         </main>

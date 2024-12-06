@@ -37,6 +37,10 @@
   transition: color 0.3s ease;
 }
 
+.contact-item:hover {
+  cursor: pointer;
+}
+
 .contact-item a:hover {
   color: black;
 }

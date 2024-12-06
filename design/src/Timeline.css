@@ -1,0 +1,54 @@
+.timeline-container {
+    background-color: #1c1c1c;
+    padding: 40px;
+  }
+  
+  .timeline-header {
+    font-size: xxx-large;
+    color: white;
+    margin-top: -10px;
+    margin-bottom: 30px;
+  }
+  
+  .timeline-date {
+    flex: 0.3;
+    color: #b3b3b3;
+  }
+  
+  .timeline-dot {
+    border-color: #4a90e2;
+  }
+  
+  .timeline-dot.education {
+    border-color: #4a90e2;
+  }
+  
+  .timeline-dot.experience {
+    border-color: #66cc99;
+  }
+  
+  .timeline-title {
+    margin: 0 0 10px;
+    color: #4a90e2;
+    font-size: 1.2em;
+  }
+  
+  .timeline-subtitle {
+    margin: 0 0 10px;
+    color: #ffffff;
+    font-size: 1em;
+  }
+  
+  .timeline-details {
+    font-size: 0.9em;
+    color: #b3b3b3;
+    margin-top: 5px;
+  }
+  
+  .timeline-details ul {
+    padding-left: 20px;
+  }
+  
+  .timeline-details li {
+    margin-bottom: 5px;
+  }
